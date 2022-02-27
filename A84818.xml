@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thirty of the priests errors published.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84818</idno>
+            <idno type="STC">Wing F1932A</idno>
+            <idno type="STC">ESTC R233888</idno>
+            <idno type="EEBO-CITATION">45789319</idno>
+            <idno type="OCLC">ocm 45789319</idno>
+            <idno type="VID">172628</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172628)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thirty of the priests errors published.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G.F. [i.e. George Fox].</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Doctrines --  Early works to 1800.</term>
+               <term>Anti-clericalism --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:172628:1" rendition="simple:additions"/>
+            <head>THIRTY OF THE Prieſts Errors Publiſhed.</head>
+            <p n="1">I. THE Teachers of the World profeſs the Scriptures to be their rule, and ſay it is a Touchſtone to try <note place="margin">2 John 1. 9. Iſa. 8. 20. 2 Pet. 1. 21.</note> withal: <hi>But he that walks contrary to the Scriptures, the Declaration of the Eternal Word, is a Seducer, and hath the Spirit of Error.</hi>
+            </p>
+            <p n="2">II. That which makes a Miniſter of the world, is the learning at <hi>Oxford</hi> and <hi>Cambridge;</hi> and they are ſo long there, and gives ſo much for their learning; and when they have done they have ſo much for their preaching. <hi>The</hi> Prophets <hi>and</hi> Apoſtles, <note place="margin">Gal. 1. 12. Ezek. 3. 1. Jer. 23. &amp; 22. 32.</note> 
+               <hi>did not ſo; Chriſt gave no ſuch command. And here they act contrary to the Scriptures, and have the ſpirit of error.</hi>
+            </p>
+            <p n="3">III. The Teachers of the World wil let none preach but them<g ref="char:EOLhyphen"/>ſelves, and ſuch as come from <hi>Oxford</hi> or <hi>Cambridge,</hi> or are elſewhere learned. <hi>Here they act contrary to the Scriptures; for the Scripture ſaith,</hi> 
+               <note place="margin">1 Cor. 14. 30. 31.</note> 
+               <hi>Ye may all propheſie one by one; and if any thing be revealed to him that ſits by, let the firſt hold his peace. Here they limit the holy one, and ſhew the ſpi<g ref="char:EOLhyphen"/>rit of error.</hi>
+            </p>
+            <p n="4">IV. The Teachers of the World have ſet-Wages of the World; and if any man refuſe to pay them, they ſue them at law. The Pro<g ref="char:EOLhyphen"/>phets <note place="margin">1 Cor. 6. 6. Act. 20. 23 1 Pet. 5. 2. Mat. 5. 40.</note> and Apoſtles did not ſo. <hi>Here they act contrary to the Scripture, and have the ſpirit of error.</hi>
+            </p>
+            <p n="5">V. The Teachers of the World take a Text, raiſe Doctrines, U<g ref="char:EOLhyphen"/>ſes, Points, Tryals, Motives, and have a Clark to ſay Amen. <hi>The A<g ref="char:EOLhyphen"/>poſtles</hi> 
+               <note place="margin">Deut 4. 2. Prov. 30. 5 6.</note> 
+               <hi>did not ſo. Here they act contrary to the Scripture, and ſhew the ſpirit of error.</hi>
+            </p>
+            <p n="6">VI. The Teachers of the World ſing <hi>David's</hi> quakings, tremb<g ref="char:EOLhyphen"/>lings, cryings, waſtings, praiſes, prayers, &amp; propheſies in meeter, and have a glaſs to preach by the hour; When they read the Pſalms, Hats muſt be on; but when they ſing them, hats muſt be off; but the Prieſts <note place="margin">Rev. 22. 18, 19. Pſal. 5 6, 7 1 Cor. 14, 15.</note> have one or two Caps on their heads. <hi>The Apoſtles did not ſo when they ſpake unto the world. Theſe act contrary to the Scriptures, and have the ſpirit of error.</hi>
+            </p>
+            <p n="7">VII. The Teachers of the World cry, Let us ſing to the praiſe and glory of God; and give the ignorant and prophane people words to ſing; as, <hi>O Lord I am not puft in mind, I have no ſcornful eye;</hi> when as they are puft in mind, and have ſcornful eyes. <hi>Here they diſhonor the Lord, cauſing the people to lye, ſhewing the ſpirit of error.</hi> 
+               <note place="margin">Pſal. 131. 1 Mat. 28 6, 7, 8, 9, 10. chap. 23. 11. Mat. 6. 5, 7, 8, 9. 1 Ioh. 2. 22</note>
+            </p>
+            <p n="8">VIII. The Teachers of the World have the chiefeſt places in the Aſſemblies, are called of men maſters, laying heavy burdens upon the people, ſtand praying in the Synagogues. <hi>Jeſus Chriſt for<g ref="char:EOLhyphen"/>bad ſuch things; but the Teachers of the World act ſuch things, contrary to Chriſts command and practice, ſhewing themſelves to be Antichriſts, Sedu<g ref="char:EOLhyphen"/>cers, Diſſemblers, having the ſpirit of error.</hi>
+            </p>
+            <p n="9">IX. The Teachers of the World hold up the outward Temples, calling it the Church, <hi>when as the Church is in God;</hi> and calls it the <note place="margin">1 Cor. 8. 10 1 Theſ. 1. 1 Acts 17. 24, 25.</note> Houſe of God. <hi>And thus acts contrary to the Scriptures, and are Seducers, and have the ſpirit of error.</hi>
+            </p>
+            <p n="10">X. The Teachers of the World ſprinkle Infants, telling people it is an Ordinance of God. <hi>Which is contrary to the Scripture, never com<g ref="char:EOLhyphen"/>manded</hi> 
+               <note place="margin">Gal. 3. 1. Luk. 1. 60. 62, &amp; 63. Gen. 21. 3. Gen. 29. 33.</note> 
+               <hi>by the Lord; but theſe hold it up, and ſo bewitch the people, and are ſeducers, having the ſpirit of error.</hi>
+            </p>
+            <p n="11">XI. The Teachers of the World calls people to a Sacrament, for the which there is no Scripture: <hi>Here they act contrary to the Scrip<g ref="char:EOLhyphen"/>ture, the Declaration of God. Here they are ſeducers, and ſhews forth the ſpirit of error.</hi>
+            </p>
+            <p n="12">XII. The Teachers of the World marries people, and takes mo<g ref="char:EOLhyphen"/>ny for it. <hi>The Apoſtle did not ſo; here they act contrary to the Scripture,</hi> 
+               <note place="margin">Gen. 29. 28</note> 
+               <hi>ſhewing the ſpirit of error.</hi>
+            </p>
+            <p n="13">XIII. The Teachers of the World takes money for burying the dead; the Apoſtles did not ſo. <hi>Here they act contrary to the Scriptures, ſhewing the ſpirit of error.</hi> 
+               <note place="margin">Mat. 10. 8.</note>
+            </p>
+            <p n="14">XIV. The Teachers of the world takes money for churching of women; the Apoſtles did not ſo. <hi>Thus they act contrary to the Scriptures, ſhewing the ſpirit of error.</hi> 
+               <note place="margin">Mat. 8 12.</note>
+            </p>
+            <p n="15">XV. The Teachers of the World have Eaſter-reckonings, and Midſummer dues, and money out of ſervants wages. The Apoſtles did not ſo, <hi>Theſe act contrary to the Scripture, ſhewing the ſpirit of error.</hi>
+            </p>
+            <p n="16">XVI. The Teachers of the World preach Funeral Sermons over the dead, and have ten ſhillings, more or leſs, as they can get it for their pains, The Apoſtles did not ſo. <hi>Theſe act contrary to the Scrip<g ref="char:EOLhyphen"/>tures, ſhewing forth the ſpirit of error.</hi>
+            </p>
+            <p n="17">XVII. The Teachers of the World agree for ſo much in the year for preaching. The Prophets and Apoſtles did not ſo; it is con<g ref="char:EOLhyphen"/>trary <note place="margin">Mat. 1 <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8 1 Cor. 16. 18. 1 Iohn 2. 16, 17.</note> to Chriſt's command; <hi>Freely ye have received, freely give: Thus they act contrary to the Scriptures, ſhewing the ſpirit of error.</hi>
+            </p>
+            <p n="18">XVIII. The Teachers of the World go in double cuffs, white boot<g ref="char:EOLhyphen"/>hoſe-tops, living in the luſts of the fleſh, following the faſhions of the World. <hi>Which the Apoſtles ſpoke againſt. Here they act contrary to</hi> 
+               <note place="margin">Rom 12. 2. 1 Pet. 1. 14 1 Cor. 7. 31. Deut. 26. 12.</note> 
+               <hi>the Scripture, and ſhew the ſpirit of Error.</hi>
+            </p>
+            <p n="19">XIX. the Teachers of the World take Tythes, the Tenths of mens Eſtates. <hi>In the old time</hi> Levi <hi>which received Tythes, the fatherleſſe, widows, and ſtrangers, was to come and be relieved within his Gate: But the Prieſts of the world do not fill the Fatherleſſe, Widows, and Strangers. Here they act contrary to the Scriptures, and ſhew the ſpirit of error.</hi>
+            </p>
+            <p n="20">XX. The Teachers of the World ſay that men ſhal never be per<g ref="char:EOLhyphen"/>fect here. When the Scripture ſaith, <hi>Be pe perfect as your heavenly Father is perfect: And, We preach Wiſdome to them that are perfect:</hi> 
+               <note place="margin">Mat. 5 48 1 Cor. 2. 6. Phil. 3. 15. Col. 4. 12. Luke 6. 40</note> 
+               <hi>And, Every one that is perfect, muſt be as his Lord. And, As many as are perfect, be thus minded. Stand perfect and compleat in the will of God. Here they act contrary to the Scripture, and ſhew the ſpirit of error.</hi>
+            </p>
+            <p n="21">XXI. The Teachers of the World ſay, that men ſhall never over<g ref="char:EOLhyphen"/>come the body of ſin ſo long as they are here, neither be made free from the body of ſin. But the Scripture ſaith, <hi>We are made free</hi> 
+               <note place="margin">Col. 4. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note> 
+               <hi>from ſin, and have put off the body of ſin; and they that are Christs, have crucified the fleſh, with the affections and luſts thereof, and all</hi> 
+               <note place="margin">2 Cor. 5. 1 7.</note> 
+               <hi>things are become new. Here they act contrary to the Scripture, and ſhew the spirit of error.</hi>
+            </p>
+            <p n="22">XXII. The Teachers of the World ſay, that men ſhall not be ſanctified throughout in body, ſoul and ſpirit, but in part as long as men are here. <hi>Herein they plead for a hold for Satan in them, and are ſeducers and deceivers; For the ſcripture ſaith, Ye are ſanctified through<g ref="char:EOLhyphen"/>out</hi> 
+               <note place="margin">Iude 8. 1.</note> 
+               <hi>in body, ſoul and spirit: And he that doth righteouſneſſe, is righ<g ref="char:EOLhyphen"/>teous, even as he is righteous: Let no man deceive you, he that ſinneth is</hi> 
+               <note place="margin">1 Ioh 3 7, 8, 9.</note> 
+               <hi>of the Devil, and never knew God. Here they go about to keepe people in their ſins, when Christ comes to take ſin away, and to deſtroy the Devil who is the Author thereof; and ſo they ſpeak contrary to the ſcrip<g ref="char:EOLhyphen"/>ture, and ſhew the ſpirit of error.</hi>
+            </p>
+            <p n="23">XXIII. The Teachers of the World ſay, that the Letter is the Light; when the Letter ſaith that Chriſt is the light; the Letter is the declaration of the Light which was in them that ſpoke forth the <note place="margin">Ioh. 8. 12. 2 Cor. 4. 6.</note> Scriptures. <hi>Here they ſpeak contrary to the Scriptures, and ſhew forth the ſpirit of error.</hi>
+            </p>
+            <p n="24">XXIV. The teachers of the World ſay, the Letter is the Word. Which is falſe; for the Letter ſaith, that God is the Word; <note place="margin">Joh. 1. 1 Heb. 4. 12 Rom. 8: 10: 8 Jer. 23. 29</note> the Letter is a declaration of the Word, <hi>which is as a fire, and ſharper than any two-edged ſword; and the Word is nigh thee, in thy heart, and in thy mouth. And ſo they draw people to the Letter, telling them it's the Word, and are diſſemblers, ſeducers, and no Miniſters of the Word, but are in error.</hi>
+            </p>
+            <p n="25">XXV. The Teachers of the world ſay, that the Spirit is in the Letter, and that they are inſeparable. VVhen the Spirit ſaith, <hi>The</hi> 
+               <note place="margin">2 Cor. 3. 6 Ezek. 13. 3 6, 7 1 Iohn 2. 26, 27 2 Cor.</note> 
+               <hi>Letter killeth, and is death; and thou that wouldſt raiſe-the ſpirit out of the dead Letter, thou ar<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Diviner and a Conjurer, following the imaginations of thy own Brain. Here you are ſeducers, and ſhew the ſpirit of Er<g ref="char:EOLhyphen"/>ror.</hi>
+            </p>
+            <p n="26">XXVI. The Teachers of the world ſay, that ſalvation is in the Scripture-Letter, and that the power goes along with the Letter. <note place="margin">2 Cor.</note> 
+               <hi>Which is death;</hi> For God is the cauſe of mans ſalvation; <hi>Here you are ſeducers, and ſhew the ſpirit of error.</hi>
+            </p>
+            <p n="27">XXVII. The Teachers of the world ſay, that <hi>Matthew, Mark, Luke</hi> and <hi>John</hi> is the Goſpel. VVhich is but the Letter, and a de<g ref="char:EOLhyphen"/>claration of the Goſpel, <hi>Jeſus Chriſt the Power of God, and the</hi> 
+               <note place="margin">1 Theſ. 2. 5 1 Pet. 1. 19 20</note> 
+               <hi>Lamb of God, which takes away the ſins of the world, and is glad ty<g ref="char:EOLhyphen"/>dings to impriſoned ſouls. And here they are ſeducers, and ſhew the ſpirit of error.</hi>
+            </p>
+            <p n="28">XXVIII. The Teachers of the world pretend the Scripture to be their Rule and Guide to walk by, and acts contrary. <hi>Therein</hi> 
+               <note place="margin">Mat. 23 27, 18</note> 
+               <hi>they ſhew themſelves to be ſeducers, diſſemblers, and hypocrites, and are gui<g ref="char:EOLhyphen"/>ded by the ſpirit of error: For they are the ſons of God that are gui<g ref="char:EOLhyphen"/>ded</hi> 
+               <note place="margin">Rom. 8. 14</note> 
+               <hi>by the ſpirit of God; For they live the life that they did that gave forth the Scriptures.</hi>
+            </p>
+            <p n="29">XXIX. The Miniſters of the World watch for means. And if men do not give them, they bite and devour them. <hi>The Prophets and A<g ref="char:EOLhyphen"/>postles, and Christ did not ſo; but they watched for the ſouls, the one the Carnal for the Carnal, and the other for the living. And there they ſhew</hi> 
+               <note place="margin">Heb. 13. 17</note> 
+               <hi>the ſpirit of error.</hi>
+            </p>
+            <p n="30">XXX. The Teachers of the worlds weapons are carnal, crying, help Magiſtrates, help Powers; put them into Cages, Goals, and houſes of Correction, ſuch as in the fear of the Lord ask them but a queſtion. <note place="margin">2 Cor: 10: 4</note> 
+               <hi>Contrary to the Apostles of Christ, whoſe weapons are ſpiritual, and not car<g ref="char:EOLhyphen"/>nal. And thus you ſhew forth the ſpirit of error.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the Signe of the <hi>Black-ſpread-Eagle</hi> and <hi>Wind-Mill,</hi> in <hi>Martins Le Grand.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
